@@ -24,6 +24,8 @@ import static android.support.test.espresso.matcher.ViewMatchers.withId;
 import static android.support.test.espresso.matcher.ViewMatchers.withText;
 import static org.hamcrest.Matchers.allOf;
 
+//This is a recording of an espresso test of a recycle view
+
 @LargeTest
 @RunWith(AndroidJUnit4.class)
 public class AddedOneWord {
